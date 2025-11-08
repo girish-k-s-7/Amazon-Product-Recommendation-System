@@ -1,0 +1,7 @@
+README.md
+setup.py
+Amazon_Product_Recommendation_System.egg-info/PKG-INFO
+Amazon_Product_Recommendation_System.egg-info/SOURCES.txt
+Amazon_Product_Recommendation_System.egg-info/dependency_links.txt
+Amazon_Product_Recommendation_System.egg-info/requires.txt
+Amazon_Product_Recommendation_System.egg-info/top_level.txt

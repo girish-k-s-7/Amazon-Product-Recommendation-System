@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: Amazon-Product-Recommendation-System
+Version: 0.0.1
+Author: Girish K S
+Author-email: girishhemanth823@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: setuptools
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
