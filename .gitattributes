@@ -1,1 +1,2 @@
 Notebooks/raw_data/cleaned_amazon_reviews.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
